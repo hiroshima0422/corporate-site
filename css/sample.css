@@ -237,15 +237,16 @@ h1{margin:0;padding:0}
   background-image:url("../images/news/side_arrow.png");
   background-size:4px 8px}
 @media screen and (-webkit-min-device-pixel-ratio: 2), (min-resolution: 2dppx){
-contents #sidebar .pc_sidemenu li{
+#contents #sidebar .pc_sidemenu li{
   background-image:url("../images/news/side_arrow@2x.png")}}
 #contents #sidebar .pc_sidemenu li a{
   color:#339fd1;text-decoration:none}
 #contents #sidebar .pc_sidemenu li a:hover{
   color:#42b9d0}
 #contents #main h2.company_title{
-argin-bottom:0px}
+margin-bottom:0px}
 #contents #main th,#contents #main td{
   padding:20px 0;color:#626262;
   font-size:14px;font-size:1.4rem}
-contents #main th{padding-right:20px}
+#contents #main th{padding-right:20px}
+
